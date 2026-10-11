@@ -1,7 +1,8 @@
 # Hey! I'm Raul
 
-*(pronounced ha-uuw)*
+_(pronounced ha-uuw)_
 
-- 🇧🇷 From Brasil — spelt correctly
-- 🇬🇧 Media Technology Engineer and Full Stack Developer in London
+- 🇧🇷 From Brasil (spelt correctly)
+- 🇬🇧 Media Tech Lead in London
+- 🐍 Python and Go Dev
 - Passionate about music, design, and building things that look beautiful and hold together
