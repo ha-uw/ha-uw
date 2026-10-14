@@ -6,3 +6,5 @@ _(pronounced ha-uuw)_
 - 🇬🇧 Media Tech Lead in London
 - 🐍 Python and Go Dev
 - Passionate about music, design, and building things that look beautiful and hold together
+
+Hi
